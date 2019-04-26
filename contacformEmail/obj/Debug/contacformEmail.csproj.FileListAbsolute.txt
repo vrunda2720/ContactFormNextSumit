@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\bin\Debug\contacformEmail.exe.config
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\bin\Debug\contacformEmail.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\bin\Debug\contacformEmail.pdb
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.g.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\contacformEmail\obj\Debug\contacformEmail.pdb

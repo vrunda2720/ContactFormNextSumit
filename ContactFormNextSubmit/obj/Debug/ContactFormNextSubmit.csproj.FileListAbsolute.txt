@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\bin\Debug\ContactFormNextSubmit.exe.config
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\bin\Debug\ContactFormNextSubmit.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\bin\Debug\ContactFormNextSubmit.pdb
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.g.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormNextSubmit\obj\Debug\ContactFormNextSubmit.pdb

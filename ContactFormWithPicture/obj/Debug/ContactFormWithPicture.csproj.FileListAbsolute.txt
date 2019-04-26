@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\bin\Debug\ContactFormWithPicture.exe.config
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\bin\Debug\ContactFormWithPicture.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\bin\Debug\ContactFormWithPicture.pdb
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.g.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\ContactFormWithPicture\obj\Debug\ContactFormWithPicture.pdb

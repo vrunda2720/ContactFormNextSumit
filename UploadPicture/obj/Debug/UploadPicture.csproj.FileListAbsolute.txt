@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\bin\Debug\UploadPicture.exe.config
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\bin\Debug\UploadPicture.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\bin\Debug\UploadPicture.pdb
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.g.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.exe
+C:\Users\Vrunda Thakkar\source\repos\ContactFormNextSubmit\UploadPicture\obj\Debug\UploadPicture.pdb
