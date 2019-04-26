@@ -20,7 +20,12 @@
                 <TextBlock Text="Age:" FontSize="20" Height="30" Width="100"></TextBlock>
                 <TextBox Name="Age1" FontSize="20" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"></TextBox>
             </StackPanel>
-            <StackPanel Margin="0">
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Picture:" FontSize="20" Height="30" Width="100"></TextBlock>
+                <Button Name="Image" Content="Load" Height="30" Width="80" Click="Image_Click"></Button>
+                <Image Name="I1" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="150" Width="400"/>
+            </StackPanel>
+            <StackPanel Margin="20">
                 <Button Name="Submit"  CommandParameter="vrundathakkar12@ygmail.com" Tag="Send Email" Content="Submit" Height="30" Width="80" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Submit_Click"></Button>
             </StackPanel>
         </StackPanel>
